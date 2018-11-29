@@ -27,6 +27,13 @@ namespace testOrder
 
             // 输出
 			result.ToList().ForEach(i => Console.WriteLine(i.Id));
+
+            //简单的调用
+			Action<IOrderable<People>> orderByDesc = o => o.Desc(j => j.Id);
+			var linq = new Orderable<People>(list.AsQueryable());
+			orderByDesc(linq);
+			linq.Queryable.ToList().ForEach(i => Console.WriteLine(i.Id));
+
 		}
 
 	}
