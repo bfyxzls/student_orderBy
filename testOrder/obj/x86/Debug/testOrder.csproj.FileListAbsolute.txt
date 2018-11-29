@@ -1,0 +1,6 @@
+/Users/lind.zhang/dotnet/testOrder/testOrder/obj/x86/Debug/testOrder.csprojResolveAssemblyReference.cache
+/Users/lind.zhang/dotnet/testOrder/testOrder/obj/x86/Debug/testOrder.csproj.CoreCompileInputs.cache
+/Users/lind.zhang/dotnet/testOrder/testOrder/bin/Debug/testOrder.exe
+/Users/lind.zhang/dotnet/testOrder/testOrder/bin/Debug/testOrder.pdb
+/Users/lind.zhang/dotnet/testOrder/testOrder/obj/x86/Debug/testOrder.exe
+/Users/lind.zhang/dotnet/testOrder/testOrder/obj/x86/Debug/testOrder.pdb

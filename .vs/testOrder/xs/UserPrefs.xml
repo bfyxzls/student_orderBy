@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{BAAAB61E-DB4E-428A-8D02-A2E10850717C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testOrder/People.cs">
+    <Files>
+      <File FileName="testOrder/Program.cs" Line="39" Column="35" />
+      <File FileName="testOrder/Orderable.cs" Line="38" Column="50" />
+      <File FileName="testOrder/Repository.cs" Line="22" Column="2" />
+      <File FileName="testOrder/People.cs" Line="11" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lind.zhang/dotnet/testOrder/testOrder/Program.cs" relfile="testOrder/Program.cs" line="22" column="4" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.testOrder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
